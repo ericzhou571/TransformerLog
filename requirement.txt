@@ -2,3 +2,4 @@
 notebook
 pytorch-lightning  
 drain3
+pandas
